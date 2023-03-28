@@ -1,0 +1,240 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "leetcode.workspaceFolder": "C:\\Users\\Administrator\\.leetcode",
+    "leetcode.endpoint": "leetcode-cn",
+    "files.autoSave": "afterDelay",
+    "leetcode.problems.sortStrategy": "Acceptance Rate (Ascending)",
+    "leetcode.defaultLanguage": "java",
+    "markdown.preview.breaks": true,
+    "markdown.preview.openMarkdownLinks": "inEditor",
+    "markdown.preview.typographer": true,
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "terminal.external.linuxExec": "urxvt",
+    
+
+       // vim配置
+       "vim.hlsearch": true,
+       "vim.statusBarColorControl": true,
+       "vim.statusBarColors.normal": "#005f5f",
+
+//        "vim.insertModeKeyBindings": 
+//        [
+//            {
+//                "before": ["j", "j"],
+//                "after": ["<Esc>" ,"l"]
+//            },
+//            {
+//                "before": [";", "a"],
+//                "after":  ["<Esc>", "^","i"],
+//            },
+   
+//            {   "before": [";", "e"],
+//                "after":  ["<Esc>", "$","a"],
+//            },
+//    // ; f , j 表示 
+//            {   "before": [";", "s"],
+//                "after":  ["@"],
+//            },       
+   
+//            {
+//                "before":[";","d"],
+//                "after" :["#"]
+//            },
+           
+//            {
+//                "before":[";","f"],
+//                "after" :["&"]
+//            },
+   
+//            {
+//                "before":[";","g"],
+//                "after" :["?"]
+//            },
+       
+//            {
+//                "before":[";","j"],
+//                "after" :[":"]
+//            },
+   
+//            {   "before": [";", "e"],
+//                "after":  ["<Esc>", "$","a"],
+//            },
+//            //1开头表示运算
+
+//            {
+//                "before": ["1", "y"],
+//                "after":  ["+"]
+//            },
+//            {
+//                "before": ["1", "u"],
+//                "after":  ["-"]
+//            },
+//            { 
+//                "before": ["1", "h"],
+//                "after":  ["*"]
+//            },
+//            { 
+//                "before": ["1", "j"],
+//                "after":  ["/"]
+//            },
+   
+//            // q  开头 i, o k ,l  中括号和大括号
+//            {
+//                "before": ["w", "j"],
+//                "after":  ["{"]
+//            },
+   
+//            {
+//                "before": ["w", "J"],
+//                "after":  ["}"]
+//            },
+           
+//            {
+//                "before": ["e", "j"],
+//                "after":  ["["]
+//            },
+//            {
+//                "before": ["e", "J"],
+//                "after":  ["]"]
+//            },
+//            {
+//                "before": ["e", "h"],
+//                "after":  ["<"]
+//            },
+//            {
+//                "before": ["e", "H"],
+//                "after":  [">"]
+//            },
+//       // f 开头的  h j  n m   最常用
+//            {
+//                "before": ["f", "h"],
+//                "after":  ["*"]
+//            },
+   
+//            {
+//                "before": ["f", "n"],
+//                "after":  ["0"]
+//            },
+   
+//            {
+//                "before": ["f", "m"],
+//                "after":  ["!"]
+//            },
+   
+//            {
+//                "before": ["f", "j"],
+//                "after":  ["="]
+//            },
+           
+   
+//        // k 开头 小括号        
+//            {
+//                "before": ["k", "f"],
+//                "after":  ["("]
+//            },
+//            {
+//                "before": ["k", "F"],
+//                "after":  [")"]
+//            },
+//            {
+//                "before": ["k", "j"],
+//                "after":  [")"]
+//            },
+
+//            {
+//                "before": ["j", "f"],
+//                "after":["\""]
+//            },
+   
+           
+//            {
+//                "before": ["j", "d"],
+//                "after":["'"]
+//            },
+   
+//            {
+//                "before": ["j", "v"],
+//                "after":["_"]
+//            },
+           
+//            {
+//                "before": ["j", "s"],
+//                "after":["%"]
+//            },
+//             {
+//                "before": ["j", "k"],
+//                "after":["+"]
+//            },
+           
+   
+//        ],
+//         "vim.normalModeKeyBindingsNonRecursive": 
+//         [        
+//            {
+//                "before": [";", "a"],
+//                "after":  ["^"],
+//            },
+   
+//            {   "before": [";", "e"],
+   
+//                "after":  ["$"],
+//            },
+//            {
+//                "before" :["n", "j"],
+//                "after" :["+"]
+//            },
+//            {
+//                "before" :["n", "k"],
+//                "after" :["-"]
+//            }
+//     ],
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f",
+        "editorLineNumber.activeForeground": "#005F5F",
+        "editor.lineHighlightBorder": "#005F5F"
+    },
+    
+    "workbench.activityBar.visible": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "vim.commandLineModeKeyBindings": [
+    
+    ],
+    "vim.neovimPath": "/usr/bin/nvim",
+    "vim.useCtrlKeys": false,
+    "editor.fontFamily": "'Droid Sans Mono', Ubuntu, 'monospace', monospace",
+    "editor.minimap.enabled": false,
+    "vim.useSystemClipboard": true,
+    "workbench.sideBar.location": "right",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "vim.joinspaces": false,
+    "vim.surround": false,
+    "vim.wrapscan": false,
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "workbench.colorTheme": "Spacemacs - dark",
+    "editor.lineNumbers": "relative"
+}
