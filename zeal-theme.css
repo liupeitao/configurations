@@ -1,0 +1,38 @@
+/* 设置背景颜色 */
+body {
+  background-color: #282E33 !important;
+}
+
+/* 设置文本颜色 */
+body, p, a, code, pre, h1, h2, h3, h4, h5, h6 {
+  color: #E6E6E6 !important;
+}
+
+/* 设置链接颜色 */
+a {
+  color: #98D6EA !important;
+}
+
+/* 设置标题颜色 */
+h1, h2, h3, h4, h5, h6 {
+  color: #F0C674 !important;
+}
+
+/* 设置代码块颜色 */
+pre {
+  background-color: #2D2D2D !important;
+  color: #CCCCCC !important;
+}
+
+/* 设置代码颜色 */
+code {
+  background-color: #2D2D2D !important;
+  color: #98D6EA !important;
+}
+
+
+/* 设置 vue.js 文档的样式 */
+.vjs {
+  background-color: #fff;
+  color: #333;
+}

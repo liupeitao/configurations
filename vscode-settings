@@ -206,7 +206,12 @@
         "statusBar.noFolderBackground": "#005f5f",
         "statusBar.debuggingBackground": "#005f5f",
         "editorLineNumber.activeForeground": "#005F5F",
-        "editor.lineHighlightBorder": "#005F5F"
+        "editor.lineHighlightBorder": "#005F5F",
+        "editorCursor.foreground": "#EEAD0E",
+        "editorCursor.background": "#030101",
+        "scrollbarSlider.background": "#005f5f",
+        "scrollbarSlider.hoverBackground": "#9543d0",
+        "editor.background": "#31363B"
     },
     
     "workbench.activityBar.visible": false,
@@ -236,5 +241,7 @@
         "markdown": false
     },
     "workbench.colorTheme": "Spacemacs - dark",
-    "editor.lineNumbers": "relative"
+    "editor.lineNumbers": "relative",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editor.untitled.hint": "hidden"
 }
