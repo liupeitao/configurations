@@ -202,9 +202,9 @@
 //            }
 //     ],
     "workbench.colorCustomizations": {
-        "statusBar.background": "#005f5f",
-        "statusBar.noFolderBackground": "#005f5f",
-        "statusBar.debuggingBackground": "#005f5f",
+        "statusBar.background": "#5f0000",
+        "statusBar.noFolderBackground": "#5f0000",
+        "statusBar.debuggingBackground": "#5f0000",
         "editorLineNumber.activeForeground": "#005F5F",
         "editor.lineHighlightBorder": "#005F5F",
         "editorCursor.foreground": "#EEAD0E",
