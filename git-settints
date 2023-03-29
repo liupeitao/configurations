@@ -1,0 +1,14 @@
+# 配置邮箱和用户名
+git config --global user.name "PTking"
+git config --global user.email "sudolovelnpctly6869@outlook.com"
+
+# 解决中文乱码问题
+git config --global core.quotepath false
+git config --global gui.encoding utf-8
+git config --global i18n.commit.encoding utf-8
+git config --global i18n.logoutputencoding utf-8
+export LESSCHARSET=utf-8
+
+# 依据OS不同，自动转化换行符
+git config --global core.autocrlf true
+
