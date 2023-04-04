@@ -5,8 +5,6 @@
         "*.ipynb": "jupyter.notebook.ipynb"
     },
     "tabnine.experimentalAutoImports": true,
-    "workbench.iconTheme": "vscode-icons",
-    "vsicons.dontShowNewVersionMessage": true,
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.smoothScrolling": true,
@@ -202,9 +200,9 @@
 //            }
 //     ],
     "workbench.colorCustomizations": {
-        "statusBar.background": "#5f0000",
-        "statusBar.noFolderBackground": "#5f0000",
-        "statusBar.debuggingBackground": "#5f0000",
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f",
         "editorLineNumber.activeForeground": "#005F5F",
         "editor.lineHighlightBorder": "#005F5F",
         "editorCursor.foreground": "#EEAD0E",
@@ -213,8 +211,6 @@
         "scrollbarSlider.hoverBackground": "#9543d0",
         "editor.background": "#31363B"
     },
-    
-    "workbench.activityBar.visible": false,
     "[python]": {
         "editor.formatOnType": true
     },
@@ -240,7 +236,6 @@
         "plaintext": false,
         "markdown": false
     },
-    "workbench.colorTheme": "Spacemacs - dark",
     "editor.lineNumbers": "relative",
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.editor.untitled.hint": "hidden"
