@@ -1,0 +1,19 @@
+[user]
+	email = sudolovelnpctly6869@outlook.com
+	name = PTking
+[core]
+	autocrlf = input
+	quotepath = false
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[gui]
+	encoding = utf-8
+[i18n "commit"]
+	encoding = utf-8
+[i18n]
+	logoutputencoding = utf-8
+[alias]
+	st = status
