@@ -1,0 +1,65 @@
+[Settings for obsidian]
+Description=Settings for obsidian
+activity=ec2c26cf-2ed2-4508-940e-a03ec1250493,9013d076-4513-4b54-9c68-387257b084b7
+activityrule=2
+desktops=48705f0e-aa14-42fb-b98a-fd8f96b9c07f
+desktopsrule=2
+fullscreen=true
+fullscreenrule=3
+title=Obsidian Vault
+titlematch=2
+wmclass=obsidian obsidian
+wmclasscomplete=true
+wmclassmatch=1
+
+[freebsd]
+Description=freebsd
+activity=02e490d2-4571-4bda-bd92-bf16402eba3b
+activityrule=2
+desktops=6d2d9924-1366-41f1-bfe2-98e23902cc03
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+title=freebsd
+titlematch=2
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[linux-server: centos7]
+Description=linux-server: centos7
+activity=02e490d2-4571-4bda-bd92-bf16402eba3b
+activityrule=2
+desktops=889b2e5f-cb58-40a6-b507-7b30a4729afc
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+title=Centos7
+titlematch=2
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[linux: kali]
+Description=linux: kali
+activity=02e490d2-4571-4bda-bd92-bf16402eba3b
+activityrule=2
+desktops=151f96ed-fc55-46ba-916a-ee990559154c
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+title=Kali-Linux-2022.2-virtualbox-amd64
+titlematch=2
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[win10]
+Description=win10
+activity=02e490d2-4571-4bda-bd92-bf16402eba3b
+activityrule=2
+desktops=a5a03a50-eea4-4a5c-9e14-14f669f04ca7
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+title=win10
+titlematch=2
+wmclass=virtualbox machine
+wmclassmatch=1
