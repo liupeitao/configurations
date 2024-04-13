@@ -1,17 +1,14 @@
 # configurations
-All configurations I need 
+
+All configurations I need
 
 1. Linux + KDE
 
 1. linux
-2. vscode
-3. idea
-4. ranger
-5. tmux
-6. zsh
-6. bim
-7. emacs
-8. git
-9. kde 
-
-
+1. vscode
+1. idea
+1. ranger
+1. tmux
+1. zsh
+1. bim
+1. kde
