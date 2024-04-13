@@ -8,4 +8,3 @@ All configurations I need
 1. vscode
 1. idea
 1. ranger
-
