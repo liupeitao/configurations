@@ -11,4 +11,6 @@ All configurations I need
 1. tmux
 1. zsh
 1. bim
+1. emacs
+1. git
 1. kde
